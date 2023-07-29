@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">НМедиа</string>
+    <string name="nmedia">НМедиа!</string>
+    <string name="post_author_avatar">Аватар автора поста</string>
+    <string name="post_menu">Меню поста</string>
+    <string name="likes">Лайки</string>
+    <string name="reposts">Репосты</string>
+    <string name="views">Просмотры</string>
+</resources>
